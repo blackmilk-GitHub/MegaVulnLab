@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: vuln-python-app
+Version: 1.0.0
+Summary: A vulnerable Python application for security testing
+Author: MegaVulnLab
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: flask==0.12
+Requires-Dist: pyyaml==5.1
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
